@@ -1,5 +1,7 @@
 //L’utente inserisce due numeri in successione, con due prompt. Il software stampa il maggiore
 
+alert();
+
 var num1=prompt("inserisci un numero");
 var num2=prompt("inserisci un altro numero");
 
