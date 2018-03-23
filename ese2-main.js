@@ -23,6 +23,6 @@ else if(str1.length<str2.length){
 
 //se le due stringhe sono della stessa lunghezza
 else{
-  console.log("hai inserito due stringhe della stessa lung");
+  console.log("hai inserito due stringhe della stessa lunghezza");
 
 }
