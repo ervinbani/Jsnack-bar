@@ -15,8 +15,6 @@ console.log(str1, str2);
 if(str1.length>str2.length){
   console.log(str2.join());
   console.log(str1.join());
-
-}
 else if(str1.length<str2.length){
   console.log(str1.join());
   console.log(str2.join());
@@ -25,6 +23,6 @@ else if(str1.length<str2.length){
 
 //se le due stringhe sono della stessa lunghezza
 else{
-  console.log("hai inserito due stringhe della stessa lunghezza");
+  console.log("hai inserito due stringhe della stessa lung");
 
 }
